@@ -19,7 +19,7 @@ blocks:
         link: /posts
     image:
       src: >-
-        http://res.cloudinary.com/deuzrsg3m/image/upload/v1628541314/jen_x1w0zx_jadwic.jpg
+        http://res.cloudinary.com/deuzrsg3m/image/upload/v1612728233/uploads/terrence-1_ai3vza_zhntx4.jpg
       alt: Tina
     color: default
     _template: hero
